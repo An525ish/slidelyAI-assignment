@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\SlidelyFormApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8867D310-161C-466F-90C2-D18A8C7D4FF5}|SlidelyFormApp\\SlidelyFormApp.vbproj|C:\\Users\\hp\\source\\repos\\SlidelyFormApp\\slidelyformapp\\my project\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8867D310-161C-466F-90C2-D18A8C7D4FF5}|SlidelyFormApp\\SlidelyFormApp.vbproj|solutionrelative:slidelyformapp\\my project\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8867D310-161C-466F-90C2-D18A8C7D4FF5}|SlidelyFormApp\\SlidelyFormApp.vbproj|C:\\Users\\hp\\source\\repos\\SlidelyFormApp\\slidelyformapp\\my project\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8867D310-161C-466F-90C2-D18A8C7D4FF5}|SlidelyFormApp\\SlidelyFormApp.vbproj|solutionrelative:slidelyformapp\\my project\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8867D310-161C-466F-90C2-D18A8C7D4FF5}|SlidelyFormApp\\SlidelyFormApp.vbproj|C:\\Users\\hp\\source\\repos\\SlidelyFormApp\\slidelyformapp\\my project\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8867D310-161C-466F-90C2-D18A8C7D4FF5}|SlidelyFormApp\\SlidelyFormApp.vbproj|solutionrelative:slidelyformapp\\my project\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8867D310-161C-466F-90C2-D18A8C7D4FF5}|SlidelyFormApp\\SlidelyFormApp.vbproj|c:\\users\\hp\\source\\repos\\slidelyformapp\\slidelyformapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8867D310-161C-466F-90C2-D18A8C7D4FF5}|SlidelyFormApp\\SlidelyFormApp.vbproj|solutionrelative:slidelyformapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8867D310-161C-466F-90C2-D18A8C7D4FF5}|SlidelyFormApp\\SlidelyFormApp.vbproj|C:\\Users\\hp\\source\\repos\\SlidelyFormApp\\slidelyformapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8867D310-161C-466F-90C2-D18A8C7D4FF5}|SlidelyFormApp\\SlidelyFormApp.vbproj|solutionrelative:slidelyformapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8867D310-161C-466F-90C2-D18A8C7D4FF5}|SlidelyFormApp\\SlidelyFormApp.vbproj|C:\\Users\\hp\\source\\repos\\SlidelyFormApp\\slidelyformapp\\my project\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8867D310-161C-466F-90C2-D18A8C7D4FF5}|SlidelyFormApp\\SlidelyFormApp.vbproj|solutionrelative:slidelyformapp\\my project\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\SlidelyFormApp\\SlidelyFormApp\\My Project\\Form3.vb",
+              "RelativeDocumentMoniker": "SlidelyFormApp\\My Project\\Form3.vb",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\SlidelyFormApp\\SlidelyFormApp\\My Project\\Form3.vb",
+              "RelativeToolTip": "SlidelyFormApp\\My Project\\Form3.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T12:45:48.047Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\SlidelyFormApp\\SlidelyFormApp\\My Project\\Form2.vb",
+              "RelativeDocumentMoniker": "SlidelyFormApp\\My Project\\Form2.vb",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\SlidelyFormApp\\SlidelyFormApp\\My Project\\Form2.vb",
+              "RelativeToolTip": "SlidelyFormApp\\My Project\\Form2.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T13:36:41.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\SlidelyFormApp\\SlidelyFormApp\\My Project\\Form3.vb",
+              "RelativeDocumentMoniker": "SlidelyFormApp\\My Project\\Form3.vb",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\SlidelyFormApp\\SlidelyFormApp\\My Project\\Form3.vb [Design]",
+              "RelativeToolTip": "SlidelyFormApp\\My Project\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T12:30:23.479Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\SlidelyFormApp\\SlidelyFormApp\\My Project\\Form2.vb",
+              "RelativeDocumentMoniker": "SlidelyFormApp\\My Project\\Form2.vb",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\SlidelyFormApp\\SlidelyFormApp\\My Project\\Form2.vb [Design]",
+              "RelativeToolTip": "SlidelyFormApp\\My Project\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T11:54:48.468Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\SlidelyFormApp\\SlidelyFormApp\\Form1.vb",
+              "RelativeDocumentMoniker": "SlidelyFormApp\\Form1.vb",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\SlidelyFormApp\\SlidelyFormApp\\Form1.vb",
+              "RelativeToolTip": "SlidelyFormApp\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T11:49:03.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\SlidelyFormApp\\SlidelyFormApp\\Form1.vb",
+              "RelativeDocumentMoniker": "SlidelyFormApp\\Form1.vb",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\SlidelyFormApp\\SlidelyFormApp\\Form1.vb [Design]",
+              "RelativeToolTip": "SlidelyFormApp\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T11:30:19.283Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
